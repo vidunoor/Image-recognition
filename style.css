@@ -1,0 +1,9 @@
+body{
+    background-image: /* top, transparent red */ linear-gradient( rgba(38, 36, 36, 0.45), rgba(27, 25, 25, 0.45) ), /* your image */ url("https://prosettings.net/wp-content/uploads/2021/04/Glorious-Model-O-Wireless-Transparent-Background.png"); }
+}
+p{
+    color:aqua;
+}
+# {
+    filter: brightness(50%);
+  }
